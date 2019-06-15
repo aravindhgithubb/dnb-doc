@@ -1,0 +1,16 @@
+Front end: HTML,Angular.js(Router)-->when user hit the URL,it will be redirect the respective service/request call.
+Code behind: Java(Spring boot,RESTful webservices)-->service creation(CRUD operations)
+Back end: MSSql(database operations)
+
+Software requirements:
+
+JDK 1.8
+STS(Spring Tool Suite)
+MSSql server(Database)
+POSTMAN/SOAP UI
+
+Server Requirements:
+
+Open source(Tomcat(webserver)JBoss & WAS)
+
+cloud server(PCF,AWS)

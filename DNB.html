@@ -1,0 +1,35 @@
+<html>
+<head>
+<script>
+function validateAndSend()
+{
+alert("atleaset you enter at least any field);
+if(searching.cname.value=='' && searching.mn.value=='')
+{
+alert("atleaset you enter at least any field);
+return false;
+}
+else
+{
+searching.submit();
+load(searching.html)
+}
+}
+</script>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<form name="searching" action="post">
+<div class="container">
+<laber for="cname"><b>CustomerName</b></label>
+<input type="text" placeholder="Enter Customer Name" name="cname" required>
+<label for="mn"><b>Mobile Number</b></label>
+<input type="text" placeholder="Enter Mobilenumber" name="mn" required>
+<br/>
+<input type="button" value="Submit" onclick="validateAndSend()">
+</div>
+</form>
+</body>
+</html>
+

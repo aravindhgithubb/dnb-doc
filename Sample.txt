@@ -1,0 +1,9 @@
+<form action="searching.html">
+<div class="container">
+<laber for="cname"><b>CustomerName</b></label>
+<input type="text" placeholder="Enter Customer Name" name="cname" required>
+<label for="mn"><b>Mobile Number</b></label>
+<input type="password" placeholder="Enter password" name="mn" required
+<button type="submit"><b>Search</b></button>
+</div>
+</form>

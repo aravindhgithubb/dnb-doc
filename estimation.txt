@@ -1,0 +1,12 @@
+Login Page - Design - 1 day
+Login Implementation - ?
+
+Home Page Design - 1 day
+Home page Name search call to database - 3 days
+Home page Phone number "               - 2 days
+Home page name details "               - 5 days
+
+Customer page 4 tabs  - 1 day
+Export excel  - 3 days
+Delete te customer - 2 day 
+Home page from customer tab and logout page - 1 day
